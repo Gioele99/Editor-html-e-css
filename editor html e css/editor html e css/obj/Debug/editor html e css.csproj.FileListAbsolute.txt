@@ -1,0 +1,10 @@
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Web application\editor html e css\editor html e css\bin\Debug\editor html e css.exe.config
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Web application\editor html e css\editor html e css\bin\Debug\editor html e css.exe
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Web application\editor html e css\editor html e css\bin\Debug\editor html e css.pdb
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Web application\editor html e css\editor html e css\obj\Debug\editor html e css.csprojResolveAssemblyReference.cache
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Web application\editor html e css\editor html e css\obj\Debug\editor_html_e_css.Form1.resources
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Web application\editor html e css\editor html e css\obj\Debug\editor_html_e_css.Properties.Resources.resources
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Web application\editor html e css\editor html e css\obj\Debug\editor html e css.csproj.GenerateResource.Cache
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Web application\editor html e css\editor html e css\obj\Debug\editor html e css.exe
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Web application\editor html e css\editor html e css\obj\Debug\editor html e css.pdb
+C:\Users\Gioele\Desktop\SCUOLA\4I1\Informatica\Web application\editor html e css\editor html e css\bin\Debug\editor html e css.XML
